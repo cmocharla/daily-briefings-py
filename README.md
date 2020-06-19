@@ -70,3 +70,6 @@ python -m app.daily_briefing # note the module-syntax invocation
 
 # mac:WEBAPP USAGE 
 FLASK_APP=hello.py flask run
+
+# mac:
+FLASK_APP=web_app flask run
